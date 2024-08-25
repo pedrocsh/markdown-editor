@@ -15,6 +15,25 @@ section + section {
   border-left: 1px solid #ddd;
 }
 
+section h1 {
+  font-size: 32px;
+  margin: 8px 0 16px;
+}
+
+section h2 {
+  font-size: 24px;
+  margin: 8px 0 16px;
+}
+
+section h3 {
+  font-size: 20px;
+  margin: 8px 0 16px;
+}
+
+section p {
+  margin: 8px 0;
+}
+
 section > div {
   font-size: 16px;
   flex: 1;
